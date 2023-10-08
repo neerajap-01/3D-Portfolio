@@ -62,6 +62,7 @@ const ComputersCanvas = () => {
     >
       <Suspense fallback={<CanvasLoader />}>
         <OrbitControls 
+          autoRotate
           enableZoom={false}
           maxPolarAngle={Math.PI / 2} // this will prevent the camera from going below the ground
           minPolarAngle={Math.PI / 2} // this will prevent the camera from going above the ground
