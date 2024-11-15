@@ -221,28 +221,28 @@ const projects = [
     image: functionUpLogo,
     source_code_link: "https://github.com/neerajap-01/FunctionUp-Projects"
   },
-  {
-    name: "Portfolio Website",
-    description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
-    tags: [
-      {
-        name: "html",
-        color: "text-rose-500",
-      },
-      {
-        name: "js",
-        color: "text-yellow-500",
-      },
-      {
-        name: "css",
-        color: "blue-text-gradient",
-      },
-    ],
-    image: portfolioWeb,
-    source_code_link: "https://github.com/neerajap-01/Portfolio",
-    live_link: "https://neerajpal.dev"
-  },
+  // {
+  //   name: "Portfolio Website",
+  //   description:
+  //     "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+  //   tags: [
+  //     {
+  //       name: "html",
+  //       color: "text-rose-500",
+  //     },
+  //     {
+  //       name: "js",
+  //       color: "text-yellow-500",
+  //     },
+  //     {
+  //       name: "css",
+  //       color: "blue-text-gradient",
+  //     },
+  //   ],
+  //   image: portfolioWeb,
+  //   source_code_link: "https://github.com/neerajap-01/Portfolio",
+  //   live_link: "https://neerajpal.dev"
+  // },
   {
     name: "ReJob",
     description:
