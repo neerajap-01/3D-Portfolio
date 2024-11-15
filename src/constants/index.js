@@ -131,7 +131,7 @@ const experiences = [
     ],
   },
   {
-    title: "Software Developer Engineer - II",
+    title: "Software Developer Engineer - III",
     company_name: "ZoloStays Property Solutions Pvt. Ltd.",
     icon: zoloStays,
     iconBg: "#ffffff",
